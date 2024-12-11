@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  /* Header Section */
+  .navbar {
+    background-color: #ff177c;
+    width: 100%;
+    z-index: 1020;
+    top: 0;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  .navbar-brand {
+    font-weight: bold;
+  }
+  .hero-section {
+    background: url('hero.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+  }
+  
+  .about-section h2 {
+    font-weight: bold;
+    color: #ff1744;
+  }
+  
+  .text-pink {
+    color: #f10674;
+  }
+
+
